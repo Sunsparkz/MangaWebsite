@@ -66,52 +66,53 @@ const mangaList = [
         description: "“I’ll come make you a late-night meal again tomorrow.” This is a late-night-meal love comedy about Nagi Yoimiya, the vocalist of a hugely popular band, and her manager. Despite her busy life as a band member, Nagi comes to make late-night meals for her manager, bringing the two closer together through their after-hours meals."
     },
     {
-        title: "Lost Kingdom",
+        title: "Made in Abyss",
         genre: "Adventure",
-        image: "images/kingdom.jpg",
-        description: "An adventure beyond imagination."
+        image: "images/Made in Abyss.jpg",
+        description: "The enormous cave system, known as the Abyss, is the last unexplored place in the world. Nobody knows how deep down goes this titanic pit, inhabited by strange and wondrous creatures and full of mysterious ancient relics which purpose in unknown to modern man. Generations of bold adventurers have been drawn by the cryptic depths of the Abyss. In course of time those brave enough to explore the dangerous pit came to be known as Delvers. In Orth, the town at the edge of the Abyss, there lives a little orphan named Riko, who dreams of becoming as great a delver as her mother was and solving the great mystery of the pit. One day, exploring the murky depths, she stumbles upon a little boy who turns out to be a robot..."
     },
     {
-        title: "The Great Journey",
+        title: "Tondemo Skill de Isekai Hourou Meshi",
         genre: "Adventure",
         image: "images/journey.jpg",
-        description: "A journey across unknown lands."
+        description: "Mukouda Tsuyoshi has been summoned from modern Japan to a different world of sword and magic. He eagerly thought of what kind of a huge adventure was waiting for him, but actually, Mukouda is just a civilian who got caught in a Hero Summoning. On top of that, Mukouda's base status is shabby compared to the legitimate heroes. Suspecting the king of foul play, as he's morbidly obese in a kingdom in crisis, apart from being war-happy, Mukouda decides to leave the castle by presenting his lack of martial prowess. The only thing that Mukouda can rely on in this world is his unique skill Net Supermarket, that can only order goods from modern Japan's internet to the new world."
     },
     {
-        title: "Magic Academy",
+        title: "Shuumatsu no Valkyrie",
         genre: "Fantasy",
-        image: "images/magic.jpg",
-        description: "A school of powerful magic."
+        image: "images/ROK.jpg",
+        description: "The story begins when the gods call a convention to decide whether to let humanity live or die, and settle on destroying humanity. But a lone Valkyrie puts forward a suggestion to let the gods and humanity fight one last battle, as a last hope for humanity's continued survival. 13 gods will fight against 13 human champions in one-on-one battles to decide whether humanity lives or dies."
+
     },
     {
-        title: "Mystic World",
+        title: "oJo no Kimyou na Bouken",
         genre: "Fantasy",
-        image: "images/mystic.jpg",
-        description: "A world full of mysteries."
+        image: "images/jojo.jpg",
+        description: "In 2011, childhood friends Yasuho Hirose and Joushuu Higashikata discover a naked man buried in the ground just outside the town of Morioh. The man has no memory of his name or previous life; the only thing he remembers about himself is how to use his Stand, a supernatural ability that takes the form of a humanoid creature. The stranger is quickly given a name, Jousuke, and Joushuu's father Norisuke decides to adopt him into the Higashikata household until he can find his own home. As Jousuke begins to investigate his past, it becomes apparent that he is no ordinary amnesiac. There is much more to his identity than he first suspected, and, as he is thrust into a series of high-stakes Stand battles, he soon begins unravelling a deadly conspiracy that encompasses the entire town.."
     },
     {
-        title: "Dark Night",
+        title: "Ajin: Demi-Human",
         genre: "Horror",
-        image: "images/dark.jpg",
-        description: "Something lurks in the shadows."
+        image: "images/Ajin.jpg",
+        description: "The story follows a high school student named Kei Nagai, who is caught in a traffic accident, dies, but immediately revives and learns he is not human, but a demi-human, a mysterious creature that cannot die. Scared, he runs away from humans but is helped by his friend Kai, who joins him in his flee from civilization. He then becomes involved in a conflict between humans and demi-humans and must choose a side."
     },
     {
-        title: "The Haunted House",
+        title: "Takopii no Genzaie",
         genre: "Horror",
-        image: "images/haunted.jpg",
-        description: "A mysterious house with secrets."
+        image: "images/takopi.jpg",
+        description: "A guest from the planet of happiness, the alien Takopi, arrives on Earth to spread happiness throughout the Earth and meets Shizuka, a girl who never smiles. Looks like she has problems at school and with friends... What will the simple-minded Takopi face? An amazing story begins!"
     },
     {
-        title: "Funny Days",
+        title: "The way of the Househusband",
         genre: "Comedy",
-        image: "images/funny.jpg",
-        description: "Every day is an adventure."
+        image: "images/Yakuza.jpg",
+        description: "Immortal Tatsu is an ex-yakuza who’s given up violence for making an honest man of himself - but is it still possible for a devoted stay-at-home husband to get into a few scrapes?"
     },
     {
-        title: "Crazy Life",
+        title: "Angel Densetsu",
         genre: "Comedy",
         image: "images/crazy.jpg",
-        description: "A hilarious everyday life."
+        description: "The story is of Kitano Seiichirou, a very kind and pure-hearted young man, with a horrifying, monstrous face. People being what they are, they think he's a terrifying delinquent, and there are plenty of chance misunderstandings (coupled with Kitano's convenient inability to understand what's happening around him) that propel him into the position of school guardian, a.k.a. head thug on campus."
     }
 ];
 
